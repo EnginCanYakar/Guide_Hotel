@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562532198002",
+    "project_id": "hotel-guide-2c63d",
+    "storage_bucket": "hotel-guide-2c63d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562532198002:android:34e39f0984acecd28bc4eb",
+        "android_client_info": {
+          "package_name": "com.example.hotel_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlj3087Z9VmWRYVKzzd60QSfKkSXCHXks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
